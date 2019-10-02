@@ -1,0 +1,61 @@
+match_date,time,match_status,Team1,Team2,scores,venue,team1_score,team2_score,Season
+"Saturday, 30 January",20:00 (IST),Match 1 - Completed ,Telugu Titans,U Mumba,25- 27,"Rajiv Gandhi Indoor Stadium, Vizag",25,27,Season 3
+"Saturday, 30 January",21:00 (IST),Match 2 - Completed ,Dabang Delhi K.C.,Bengaluru Bulls,29- 35,"Rajiv Gandhi Indoor Stadium, Vizag",29,35,Season 3
+"Sunday, 31 January",20:00 (IST),Match 3 - Completed ,Jaipur Pink Panthers,U Mumba,27- 18,"Rajiv Gandhi Indoor Stadium, Vizag",27,18,Season 3
+"Sunday, 31 January",21:00 (IST),Match 4 - Completed ,Telugu Titans,Puneri Paltan,27- 26,"Rajiv Gandhi Indoor Stadium, Vizag",27,26,Season 3
+"Monday, 01 February",20:00 (IST),Match 5 - Completed ,Patna Pirates,Jaipur Pink Panthers,29- 28,"Rajiv Gandhi Indoor Stadium, Vizag",29,28,Season 3
+"Monday, 01 February",21:00 (IST),Match 6 - Completed ,Telugu Titans,Dabang Delhi K.C.,45- 34,"Rajiv Gandhi Indoor Stadium, Vizag",45,34,Season 3
+"Tuesday, 02 February",20:00 (IST),Match 7 - Completed ,Telugu Titans,Bengal Warriors,17- 25,"Rajiv Gandhi Indoor Stadium, Vizag",17,25,Season 3
+"Wednesday, 03 February",20:00 (IST),Match 8 - Completed ,Bengaluru Bulls,Patna Pirates,24- 33,"Sree Kanteerava Stadium, Bengaluru",24,33,Season 3
+"Wednesday, 03 February",21:00 (IST),Match 9 - Completed ,Dabang Delhi K.C.,Puneri Paltan,20- 38,"Sree Kanteerava Stadium, Bengaluru",20,38,Season 3
+"Thursday, 04 February",20:00 (IST),Match 10 - Completed ,Bengaluru Bulls,Bengal Warriors,24- 34,"Sree Kanteerava Stadium, Bengaluru",24,34,Season 3
+"Friday, 05 February",20:00 (IST),Match 11 - Completed ,Dabang Delhi K.C.,U Mumba,17- 30,"Sree Kanteerava Stadium, Bengaluru",17,30,Season 3
+"Friday, 05 February",21:00 (IST),Match 12 - Completed ,Bengaluru Bulls,Jaipur Pink Panthers,36- 26,"Sree Kanteerava Stadium, Bengaluru",36,26,Season 3
+"Saturday, 06 February",20:00 (IST),Match 13 - Completed ,U Mumba,Patna Pirates,26- 40,"Sree Kanteerava Stadium, Bengaluru",26,40,Season 3
+"Saturday, 06 February",21:00 (IST),Match 14 - Completed ,Bengaluru Bulls,Telugu Titans,26- 35,"Sree Kanteerava Stadium, Bengaluru",26,35,Season 3
+"Sunday, 07 February",20:00 (IST),Match 15 - Completed ,Bengal Warriors,Puneri Paltan,33- 28,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",33,28,Season 3
+"Sunday, 07 February",21:00 (IST),Match 16 - Completed ,Jaipur Pink Panthers,Dabang Delhi K.C.,39- 34,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",39,34,Season 3
+"Monday, 08 February",20:00 (IST),Match 17 - Completed ,Patna Pirates,Telugu Titans,29- 25,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",29,25,Season 3
+"Monday, 08 February",21:00 (IST),Match 18 - Completed ,Bengal Warriors,Dabang Delhi K.C.,34- 17,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",34,17,Season 3
+"Tuesday, 09 February",20:00 (IST),Match 19 - Completed ,Bengal Warriors,Patna Pirates,31- 36,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",31,36,Season 3
+"Wednesday, 10 February",20:00 (IST),Match 20 - Completed ,U Mumba,Bengaluru Bulls,29- 28,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",29,28,Season 3
+"Wednesday, 10 February",21:00 (IST),Match 21 - Completed ,Bengal Warriors,Jaipur Pink Panthers,34- 20,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",34,20,Season 3
+"Thursday, 11 February",20:00 (IST),Match 22 - Completed ,Puneri Paltan,Patna Pirates,30- 30,"Shree Shiv Chhatrapati Sports Complex, Pune",30,30,Season 3
+"Friday, 12 February",20:00 (IST),Match 23 - Completed ,Patna Pirates,Dabang Delhi K.C.,47- 34,"Shree Shiv Chhatrapati Sports Complex, Pune",47,34,Season 3
+"Friday, 12 February",21:00 (IST),Match 24 - Completed ,Puneri Paltan,Jaipur Pink Panthers,32- 32,"Shree Shiv Chhatrapati Sports Complex, Pune",32,32,Season 3
+"Saturday, 13 February",20:00 (IST),Match 25 - Completed ,Jaipur Pink Panthers,Telugu Titans,25- 27,"Shree Shiv Chhatrapati Sports Complex, Pune",25,27,Season 3
+"Saturday, 13 February",21:00 (IST),Match 26 - Completed ,Puneri Paltan,U Mumba,27- 29,"Shree Shiv Chhatrapati Sports Complex, Pune",27,29,Season 3
+"Sunday, 14 February",20:00 (IST),Match 27 - Completed ,U Mumba,Bengal Warriors,32- 21,"Shree Shiv Chhatrapati Sports Complex, Pune",32,21,Season 3
+"Sunday, 14 February",21:00 (IST),Match 28 - Completed ,Puneri Paltan,Bengaluru Bulls,29- 27,"Shree Shiv Chhatrapati Sports Complex, Pune",29,27,Season 3
+"Tuesday, 16 February",20:00 (IST),Match 29 - Completed ,Patna Pirates,Bengal Warriors,32- 27,"Patliputra Sports Complex, Patna",32,27,Season 3
+"Tuesday, 16 February",21:30 (IST),Match 30 - Completed ,Telugu Titans,Jaipur Pink Panthers,26- 35,"Patliputra Sports Complex, Patna",26,35,Season 3
+"Wednesday, 17 February",20:00 (IST),Match 31 - Completed ,Patna Pirates,Bengaluru Bulls,36- 32,"Patliputra Sports Complex, Patna",36,32,Season 3
+"Thursday, 18 February",20:00 (IST),Match 32 - Completed ,Bengaluru Bulls,Dabang Delhi K.C.,21- 35,"Patliputra Sports Complex, Patna",21,35,Season 3
+"Thursday, 18 February",21:00 (IST),Match 33 - Completed ,Patna Pirates,Puneri Paltan,28- 28,"Patliputra Sports Complex, Patna",28,28,Season 3
+"Friday, 19 February",20:00 (IST),Match 34 - Completed ,Bengal Warriors,Telugu Titans,32- 28,"Patliputra Sports Complex, Patna",32,28,Season 3
+"Friday, 19 February",21:00 (IST),Match 35 - Completed ,Patna Pirates,U Mumba,28- 34,"Patliputra Sports Complex, Patna",28,34,Season 3
+"Saturday, 20 February",20:00 (IST),Match 36 - Completed ,Jaipur Pink Panthers,Bengaluru Bulls,30- 21,"Sawai Mansingh Stadium, Jaipur",30,21,Season 3
+"Saturday, 20 February",21:00 (IST),Match 37 - Completed ,Puneri Paltan,Dabang Delhi K.C.,32- 22,"Sawai Mansingh Stadium, Jaipur",32,22,Season 3
+"Sunday, 21 February",20:00 (IST),Match 38 - Completed ,Telugu Titans,Bengaluru Bulls,40- 22,"Sawai Mansingh Stadium, Jaipur",40,22,Season 3
+"Sunday, 21 February",21:00 (IST),Match 39 - Completed ,Jaipur Pink Panthers,Puneri Paltan,18- 33,"Sawai Mansingh Stadium, Jaipur",18,33,Season 3
+"Monday, 22 February",20:00 (IST),Match 40 - Completed ,Jaipur Pink Panthers,Bengal Warriors,18- 34,"Sawai Mansingh Stadium, Jaipur",18,34,Season 3
+"Tuesday, 23 February",20:00 (IST),Match 41 - Completed ,Bengal Warriors,U Mumba,17- 30,"Sawai Mansingh Stadium, Jaipur",17,30,Season 3
+"Tuesday, 23 February",21:00 (IST),Match 42 - Completed ,Jaipur Pink Panthers,Patna Pirates,24- 47,"Sawai Mansingh Stadium, Jaipur",24,47,Season 3
+"Wednesday, 24 February",20:00 (IST),Match 43 - Completed ,Dabang Delhi K.C.,Telugu Titans,36- 44,"Thyagaraj Sports Complex, Delhi",36,44,Season 3
+"Thursday, 25 February",20:00 (IST),Match 44 - Completed ,Bengaluru Bulls,U Mumba,18- 39,"Thyagaraj Sports Complex, Delhi",18,39,Season 3
+"Thursday, 25 February",21:00 (IST),Match 45 - Completed ,Dabang Delhi K.C.,Patna Pirates,34- 67,"Thyagaraj Sports Complex, Delhi",34,67,Season 3
+"Friday, 26 February",20:00 (IST),Match 46 - Completed ,Puneri Paltan,Telugu Titans,41- 24,"Thyagaraj Sports Complex, Delhi",41,24,Season 3
+"Friday, 26 February",21:00 (IST),Match 47 - Completed ,Dabang Delhi K.C.,Jaipur Pink Panthers,21- 21,"Thyagaraj Sports Complex, Delhi",21,21,Season 3
+"Saturday, 27 February",20:00 (IST),Match 48 - Completed ,Bengaluru Bulls,Puneri Paltan,27- 44,"Thyagaraj Sports Complex, Delhi",27,44,Season 3
+"Saturday, 27 February",21:00 (IST),Match 49 - Completed ,Dabang Delhi K.C.,Bengal Warriors,31- 37,"Thyagaraj Sports Complex, Delhi",31,37,Season 3
+"Sunday, 28 February",20:00 (IST),Match 50 - Completed ,U Mumba,Jaipur Pink Panthers,35- 21,"DOME@NSCI SVP Stadium, Mumbai",35,21,Season 3
+"Sunday, 28 February",21:00 (IST),Match 51 - Completed ,Telugu Titans,Patna Pirates,42- 41,"DOME@NSCI SVP Stadium, Mumbai",42,41,Season 3
+"Monday, 29 February",20:00 (IST),Match 52 - Completed ,U Mumba,Puneri Paltan,30- 27,"DOME@NSCI SVP Stadium, Mumbai",30,27,Season 3
+"Tuesday, 01 March",20:00 (IST),Match 53 - Completed ,Bengal Warriors,Bengaluru Bulls,26- 22,"DOME@NSCI SVP Stadium, Mumbai",26,22,Season 3
+"Tuesday, 01 March",21:00 (IST),Match 54 - Completed ,U Mumba,Telugu Titans,38- 22,"DOME@NSCI SVP Stadium, Mumbai",38,22,Season 3
+"Wednesday, 02 March",20:00 (IST),Match 55 - Completed ,Puneri Paltan,Bengal Warriors,43- 19,"DOME@NSCI SVP Stadium, Mumbai",43,19,Season 3
+"Wednesday, 02 March",21:00 (IST),Match 56 - Completed ,U Mumba,Dabang Delhi K.C.,36- 20,"DOME@NSCI SVP Stadium, Mumbai",36,20,Season 3
+"Friday, 04 March",20:00 (IST),Semi-Final 1 - Completed ,Patna Pirates,Puneri Paltan,40- 21,"Indira Gandhi Indoor Stadium, New Delhi",40,21,Season 3
+"Friday, 04 March",21:00 (IST),Semi-Final 2 - Completed ,U Mumba,Bengal Warriors,41- 29,"Indira Gandhi Indoor Stadium, New Delhi",41,29,Season 3
+"Saturday, 05 March",20:00 (IST),3/4 Place - Completed ,Bengal Warriors,Puneri Paltan,27- 31,"Indira Gandhi Indoor Stadium, New Delhi",27,31,Season 3
+"Saturday, 05 March",21:00 (IST),Final - Completed ,U Mumba,Patna Pirates,28- 31,"Indira Gandhi Indoor Stadium, New Delhi",28,31,Season 3

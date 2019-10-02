@@ -1,0 +1,61 @@
+match_date,time,match_status,Team1,Team2,scores,venue,team1_score,team2_score,Season
+"Saturday, 18 July",20:00 (IST),Match 1 - Completed ,U Mumba,Jaipur Pink Panthers,29- 28,"DOME@NSCI SVP Stadium, Mumbai",29,28,Season 2
+"Saturday, 18 July",21:00 (IST),Match 2 - Completed ,Bengaluru Bulls,Bengal Warriors,33- 25,"DOME@NSCI SVP Stadium, Mumbai",33,25,Season 2
+"Sunday, 19 July",20:00 (IST),Match 3 - Completed ,Telugu Titans,Dabang Delhi K.C.,36- 27,"DOME@NSCI SVP Stadium, Mumbai",36,27,Season 2
+"Sunday, 19 July",21:00 (IST),Match 4 - Completed ,U Mumba,Bengaluru Bulls,36- 23,"DOME@NSCI SVP Stadium, Mumbai",36,23,Season 2
+"Monday, 20 July",20:00 (IST),Match 5 - Completed ,Puneri Paltan,Telugu Titans,24- 45,"DOME@NSCI SVP Stadium, Mumbai",24,45,Season 2
+"Monday, 20 July",21:00 (IST),Match 6 - Completed ,U Mumba,Patna Pirates,25- 20,"DOME@NSCI SVP Stadium, Mumbai",25,20,Season 2
+"Tuesday, 21 July",20:00 (IST),Match 7 - Completed ,U Mumba,Puneri Paltan,28- 21,"DOME@NSCI SVP Stadium, Mumbai",28,21,Season 2
+"Wednesday, 22 July",20:00 (IST),Match 8 - Completed ,Bengal Warriors,Jaipur Pink Panthers,28- 26,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",28,26,Season 2
+"Wednesday, 22 July",21:00 (IST),Match 9 - Completed ,Bengaluru Bulls,Patna Pirates,31- 26,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",31,26,Season 2
+"Thursday, 23 July",20:00 (IST),Match 10 - Completed ,Bengal Warriors,Telugu Titans,30- 32,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",30,32,Season 2
+"Friday, 24 July",20:00 (IST),Match 11 - Completed ,Dabang Delhi K.C.,Puneri Paltan,38- 37,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",38,37,Season 2
+"Friday, 24 July",21:00 (IST),Match 12 - Completed ,Bengal Warriors,U Mumba,25- 29,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",25,29,Season 2
+"Saturday, 25 July",20:00 (IST),Match 13 - Completed ,Bengaluru Bulls,Puneri Paltan,31- 26,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",31,26,Season 2
+"Saturday, 25 July",21:00 (IST),Match 14 - Completed ,Bengal Warriors,Dabang Delhi K.C.,21- 32,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",21,32,Season 2
+"Sunday, 26 July",20:00 (IST),Match 15 - Completed ,Jaipur Pink Panthers,Patna Pirates,23- 29,"Sawai Mansingh Stadium, Jaipur",23,29,Season 2
+"Sunday, 26 July",21:00 (IST),Match 16 - Completed ,Telugu Titans,U Mumba,26- 27,"Sawai Mansingh Stadium, Jaipur",26,27,Season 2
+"Monday, 27 July",20:00 (IST),Match 17 - Completed ,Dabang Delhi K.C.,Bengaluru Bulls,18- 33,"Sawai Mansingh Stadium, Jaipur",18,33,Season 2
+"Monday, 27 July",21:00 (IST),Match 18 - Completed ,Jaipur Pink Panthers,Telugu Titans,22- 33,"Sawai Mansingh Stadium, Jaipur",22,33,Season 2
+"Tuesday, 28 July",20:00 (IST),Match 19 - Completed ,Jaipur Pink Panthers,Bengaluru Bulls,36- 23,"Sawai Mansingh Stadium, Jaipur",36,23,Season 2
+"Wednesday, 29 July",20:00 (IST),Match 20 - Completed ,Puneri Paltan,Bengal Warriors,33- 29,"Sawai Mansingh Stadium, Jaipur",33,29,Season 2
+"Wednesday, 29 July",21:00 (IST),Match 21 - Completed ,Jaipur Pink Panthers,Dabang Delhi K.C.,27- 35,"Sawai Mansingh Stadium, Jaipur",27,35,Season 2
+"Thursday, 30 July",20:00 (IST),Match 22 - Completed ,Patna Pirates,Telugu Titans,22- 34,"Patliputra Sports Complex, Patna",22,34,Season 2
+"Friday, 31 July",20:00 (IST),Match 23 - Completed ,Telugu Titans,Bengaluru Bulls,21- 35,"Patliputra Sports Complex, Patna",21,35,Season 2
+"Friday, 31 July",21:00 (IST),Match 24 - Completed ,Patna Pirates,Dabang Delhi K.C.,39- 22,"Patliputra Sports Complex, Patna",39,22,Season 2
+"Saturday, 01 August",20:00 (IST),Match 25 - Completed ,Dabang Delhi K.C.,U Mumba,22- 27,"Patliputra Sports Complex, Patna",22,27,Season 2
+"Saturday, 01 August",21:00 (IST),Match 26 - Completed ,Patna Pirates,Puneri Paltan,32- 28,"Patliputra Sports Complex, Patna",32,28,Season 2
+"Sunday, 02 August",20:00 (IST),Match 27 - Completed ,Puneri Paltan,Jaipur Pink Panthers,29- 35,"Patliputra Sports Complex, Patna",29,35,Season 2
+"Sunday, 02 August",21:00 (IST),Match 28 - Completed ,Patna Pirates,Bengal Warriors,20- 20,"Patliputra Sports Complex, Patna",20,20,Season 2
+"Tuesday, 04 August",20:00 (IST),Match 29 - Completed ,Telugu Titans,Jaipur Pink Panthers,39- 39,"Gachibowli Indoor Stadium, Hyderabad",39,39,Season 2
+"Tuesday, 04 August",21:00 (IST),Match 30 - Completed ,U Mumba,Dabang Delhi K.C.,29- 25,"Gachibowli Indoor Stadium, Hyderabad",29,25,Season 2
+"Wednesday, 05 August",20:00 (IST),Match 31 - Completed ,Telugu Titans,Bengal Warriors,44- 28,"Gachibowli Indoor Stadium, Hyderabad",44,28,Season 2
+"Thursday, 06 August",20:00 (IST),Match 32 - Completed ,Bengal Warriors,Bengaluru Bulls,22- 33,"Gachibowli Indoor Stadium, Hyderabad",22,33,Season 2
+"Thursday, 06 August",21:00 (IST),Match 33 - Completed ,Telugu Titans,Patna Pirates,54- 32,"Gachibowli Indoor Stadium, Hyderabad",54,32,Season 2
+"Friday, 07 August",20:00 (IST),Match 34 - Completed ,Jaipur Pink Panthers,U Mumba,35- 25,"Gachibowli Indoor Stadium, Hyderabad",35,25,Season 2
+"Friday, 07 August",21:00 (IST),Match 35 - Completed ,Telugu Titans,Puneri Paltan,29- 29,"Gachibowli Indoor Stadium, Hyderabad",29,29,Season 2
+"Saturday, 08 August",20:00 (IST),Match 36 - Completed ,Dabang Delhi K.C.,Bengal Warriors,17- 20,"Thyagaraj Sports Complex, Delhi",17,20,Season 2
+"Saturday, 08 August",21:00 (IST),Match 37 - Completed ,Patna Pirates,Bengaluru Bulls,30- 28,"Thyagaraj Sports Complex, Delhi",30,28,Season 2
+"Sunday, 09 August",20:00 (IST),Match 38 - Completed ,U Mumba,Bengal Warriors,31- 17,"Thyagaraj Sports Complex, Delhi",31,17,Season 2
+"Sunday, 09 August",21:00 (IST),Match 39 - Completed ,Dabang Delhi K.C.,Patna Pirates,45- 26,"Thyagaraj Sports Complex, Delhi",45,26,Season 2
+"Monday, 10 August",20:00 (IST),Match 40 - Completed ,Dabang Delhi K.C.,Jaipur Pink Panthers,21- 51,"Thyagaraj Sports Complex, Delhi",21,51,Season 2
+"Tuesday, 11 August",20:00 (IST),Match 41 - Completed ,Jaipur Pink Panthers,Puneri Paltan,31- 18,"Thyagaraj Sports Complex, Delhi",31,18,Season 2
+"Tuesday, 11 August",21:00 (IST),Match 42 - Completed ,Dabang Delhi K.C.,Telugu Titans,45- 45,"Thyagaraj Sports Complex, Delhi",45,45,Season 2
+"Wednesday, 12 August",20:00 (IST),Match 43 - Completed ,Bengaluru Bulls,U Mumba,29- 36,"Sree Kanteerava Stadium, Bengaluru",29,36,Season 2
+"Thursday, 13 August",20:00 (IST),Match 44 - Completed ,Bengal Warriors,Puneri Paltan,31- 28,"Sree Kanteerava Stadium, Bengaluru",31,28,Season 2
+"Thursday, 13 August",21:00 (IST),Match 45 - Completed ,Bengaluru Bulls,Jaipur Pink Panthers,25- 27,"Sree Kanteerava Stadium, Bengaluru",25,27,Season 2
+"Friday, 14 August",20:00 (IST),Match 46 - Completed ,Bengal Warriors,Patna Pirates,32- 34,"Sree Kanteerava Stadium, Bengaluru",32,34,Season 2
+"Friday, 14 August",21:00 (IST),Match 47 - Completed ,Bengaluru Bulls,Dabang Delhi K.C.,40- 21,"Sree Kanteerava Stadium, Bengaluru",40,21,Season 2
+"Saturday, 15 August",20:00 (IST),Match 48 - Completed ,Patna Pirates,U Mumba,27- 32,"Sree Kanteerava Stadium, Bengaluru",27,32,Season 2
+"Saturday, 15 August",21:00 (IST),Match 49 - Completed ,Bengaluru Bulls,Telugu Titans,43- 29,"Sree Kanteerava Stadium, Bengaluru",43,29,Season 2
+"Sunday, 16 August",20:00 (IST),Match 50 - Completed ,Puneri Paltan,Dabang Delhi K.C.,33- 28,"Shree Shiv Chhatrapati Sports Complex, Pune",33,28,Season 2
+"Sunday, 16 August",21:00 (IST),Match 51 - Completed ,Jaipur Pink Panthers,Bengal Warriors,38- 39,"Shree Shiv Chhatrapati Sports Complex, Pune",38,39,Season 2
+"Monday, 17 August",20:00 (IST),Match 52 - Completed ,Puneri Paltan,U Mumba,34- 39,"Shree Shiv Chhatrapati Sports Complex, Pune",34,39,Season 2
+"Tuesday, 18 August",20:00 (IST),Match 53 - Completed ,U Mumba,Telugu Titans,25- 46,"Shree Shiv Chhatrapati Sports Complex, Pune",25,46,Season 2
+"Tuesday, 18 August",21:00 (IST),Match 54 - Completed ,Puneri Paltan,Patna Pirates,21- 38,"Shree Shiv Chhatrapati Sports Complex, Pune",21,38,Season 2
+"Wednesday, 19 August",20:00 (IST),Match 55 - Completed ,Patna Pirates,Jaipur Pink Panthers,26- 24,"Shree Shiv Chhatrapati Sports Complex, Pune",26,24,Season 2
+"Wednesday, 19 August",21:00 (IST),Match 56 - Completed ,Puneri Paltan,Bengaluru Bulls,30- 31,"Shree Shiv Chhatrapati Sports Complex, Pune",30,31,Season 2
+"Friday, 21 August",20:00 (IST),Semi-Final 1 - Completed ,Telugu Titans,Bengaluru Bulls,38- 39,"DOME@NSCI SVP Stadium, Mumbai",38,39,Season 2
+"Friday, 21 August",21:00 (IST),Semi-Final 2 - Completed ,U Mumba,Patna Pirates,35- 18,"DOME@NSCI SVP Stadium, Mumbai",35,18,Season 2
+"Sunday, 23 August",20:00 (IST),3/4 Place - Completed ,Patna Pirates,Telugu Titans,26- 34,"DOME@NSCI SVP Stadium, Mumbai",26,34,Season 2
+"Sunday, 23 August",21:00 (IST),Final - Completed ,U Mumba,Bengaluru Bulls,36- 30,"DOME@NSCI SVP Stadium, Mumbai",36,30,Season 2

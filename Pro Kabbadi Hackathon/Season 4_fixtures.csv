@@ -1,0 +1,61 @@
+match_date,time,match_status,Team1,Team2,scores,venue,team1_score,team2_score,Season
+"Saturday, 25 June",20:00 (IST),Match 1 - Completed ,Puneri Paltan,Telugu Titans,28- 24,"DOME@NSCI SVP Stadium, Mumbai",28,24,Season 4
+"Saturday, 25 June",21:00 (IST),Match 2 - Completed ,U Mumba,Jaipur Pink Panthers,36- 34,"DOME@NSCI SVP Stadium, Mumbai",36,34,Season 4
+"Sunday, 26 June",20:00 (IST),Match 3 - Completed ,Bengaluru Bulls,Bengal Warriors,24- 23,"DOME@NSCI SVP Stadium, Mumbai",24,23,Season 4
+"Sunday, 26 June",21:00 (IST),Match 4 - Completed ,Puneri Paltan,U Mumba,41- 19,"DOME@NSCI SVP Stadium, Mumbai",41,19,Season 4
+"Monday, 27 June",20:00 (IST),Match 5 - Completed ,Bengal Warriors,Dabang Delhi K.C.,31- 23,"DOME@NSCI SVP Stadium, Mumbai",31,23,Season 4
+"Monday, 27 June",21:00 (IST),Match 6 - Completed ,Puneri Paltan,Patna Pirates,24- 30,"DOME@NSCI SVP Stadium, Mumbai",24,30,Season 4
+"Tuesday, 28 June",20:00 (IST),Match 7 - Completed ,Puneri Paltan,Dabang Delhi K.C.,27- 27,"DOME@NSCI SVP Stadium, Mumbai",27,27,Season 4
+"Wednesday, 29 June",20:00 (IST),Match 8 - Completed ,Jaipur Pink Panthers,Telugu Titans,28- 24,"Sawai Mansingh Stadium, Jaipur",28,24,Season 4
+"Wednesday, 29 June",21:00 (IST),Match 9 - Completed ,U Mumba,Patna Pirates,34- 36,"Sawai Mansingh Stadium, Jaipur",34,36,Season 4
+"Thursday, 30 June",20:00 (IST),Match 10 - Completed ,Jaipur Pink Panthers,Bengaluru Bulls,28- 28,"Sawai Mansingh Stadium, Jaipur",28,28,Season 4
+"Friday, 01 July",20:00 (IST),Match 11 - Completed ,U Mumba,Dabang Delhi K.C.,27- 25,"Sawai Mansingh Stadium, Jaipur",27,25,Season 4
+"Friday, 01 July",21:00 (IST),Match 12 - Completed ,Jaipur Pink Panthers,Bengal Warriors,36- 33,"Sawai Mansingh Stadium, Jaipur",36,33,Season 4
+"Saturday, 02 July",20:00 (IST),Match 13 - Completed ,Dabang Delhi K.C.,Bengaluru Bulls,32- 24,"Sawai Mansingh Stadium, Jaipur",32,24,Season 4
+"Saturday, 02 July",21:00 (IST),Match 14 - Completed ,Jaipur Pink Panthers,Puneri Paltan,28- 33,"Sawai Mansingh Stadium, Jaipur",28,33,Season 4
+"Sunday, 03 July",20:00 (IST),Match 15 - Completed ,Telugu Titans,Patna Pirates,33- 35,"Gachibowli Indoor Stadium, Hyderabad",33,35,Season 4
+"Sunday, 03 July",21:00 (IST),Match 16 - Completed ,Bengal Warriors,U Mumba,18- 26,"Gachibowli Indoor Stadium, Hyderabad",18,26,Season 4
+"Monday, 04 July",20:00 (IST),Match 17 - Completed ,Bengaluru Bulls,Puneri Paltan,29- 27,"Gachibowli Indoor Stadium, Hyderabad",29,27,Season 4
+"Monday, 04 July",21:00 (IST),Match 18 - Completed ,Telugu Titans,Bengal Warriors,35- 18,"Gachibowli Indoor Stadium, Hyderabad",35,18,Season 4
+"Tuesday, 05 July",20:00 (IST),Match 19 - Completed ,Telugu Titans,Bengaluru Bulls,28- 30,"Gachibowli Indoor Stadium, Hyderabad",28,30,Season 4
+"Wednesday, 06 July",20:00 (IST),Match 20 - Completed ,Dabang Delhi K.C.,Jaipur Pink Panthers,26- 51,"Gachibowli Indoor Stadium, Hyderabad",26,51,Season 4
+"Wednesday, 06 July",21:00 (IST),Match 21 - Completed ,Telugu Titans,U Mumba,35- 30,"Gachibowli Indoor Stadium, Hyderabad",35,30,Season 4
+"Thursday, 07 July",20:00 (IST),Match 22 - Completed ,Patna Pirates,Bengaluru Bulls,31- 25,"Patliputra Sports Complex, Patna",31,25,Season 4
+"Friday, 08 July",20:00 (IST),Match 23 - Completed ,Bengaluru Bulls,U Mumba,23- 24,"Patliputra Sports Complex, Patna",23,24,Season 4
+"Friday, 08 July",21:00 (IST),Match 24 - Completed ,Patna Pirates,Bengal Warriors,35- 21,"Patliputra Sports Complex, Patna",35,21,Season 4
+"Saturday, 09 July",20:00 (IST),Match 25 - Completed ,Bengal Warriors,Puneri Paltan,31- 38,"Patliputra Sports Complex, Patna",31,38,Season 4
+"Saturday, 09 July",21:00 (IST),Match 26 - Completed ,Patna Pirates,Dabang Delhi K.C.,15- 33,"Patliputra Sports Complex, Patna",15,33,Season 4
+"Sunday, 10 July",20:00 (IST),Match 27 - Completed ,Dabang Delhi K.C.,Telugu Titans,23- 28,"Patliputra Sports Complex, Patna",23,28,Season 4
+"Sunday, 10 July",21:00 (IST),Match 28 - Completed ,Patna Pirates,Jaipur Pink Panthers,21- 26,"Patliputra Sports Complex, Patna",21,26,Season 4
+"Tuesday, 12 July",20:00 (IST),Match 29 - Completed ,Bengaluru Bulls,Telugu Titans,24- 32,"Sree Kanteerava Stadium, Bengaluru",24,32,Season 4
+"Tuesday, 12 July",21:00 (IST),Match 30 - Completed ,Puneri Paltan,Bengal Warriors,34- 34,"Sree Kanteerava Stadium, Bengaluru",34,34,Season 4
+"Wednesday, 13 July",20:00 (IST),Match 31 - Completed ,Bengaluru Bulls,Jaipur Pink Panthers,22- 24,"Sree Kanteerava Stadium, Bengaluru",22,24,Season 4
+"Thursday, 14 July",20:00 (IST),Match 32 - Completed ,Jaipur Pink Panthers,U Mumba,23- 29,"Sree Kanteerava Stadium, Bengaluru",23,29,Season 4
+"Thursday, 14 July",21:00 (IST),Match 33 - Completed ,Bengaluru Bulls,Patna Pirates,23- 38,"Sree Kanteerava Stadium, Bengaluru",23,38,Season 4
+"Friday, 15 July",20:00 (IST),Match 34 - Completed ,Telugu Titans,Puneri Paltan,32- 29,"Sree Kanteerava Stadium, Bengaluru",32,29,Season 4
+"Friday, 15 July",21:00 (IST),Match 35 - Completed ,Bengaluru Bulls,Dabang Delhi K.C.,20- 40,"Sree Kanteerava Stadium, Bengaluru",20,40,Season 4
+"Saturday, 16 July",20:00 (IST),Match 36 - Completed ,Bengal Warriors,Jaipur Pink Panthers,32- 25,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",32,25,Season 4
+"Saturday, 16 July",21:00 (IST),Match 37 - Completed ,Patna Pirates,U Mumba,34- 24,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",34,24,Season 4
+"Sunday, 17 July",20:00 (IST),Match 38 - Completed ,Puneri Paltan,Jaipur Pink Panthers,27- 33,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",27,33,Season 4
+"Sunday, 17 July",21:00 (IST),Match 39 - Completed ,Bengal Warriors,Patna Pirates,27- 33,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",27,33,Season 4
+"Monday, 18 July",20:00 (IST),Match 40 - Completed ,Bengal Warriors,Telugu Titans,34- 34,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",34,34,Season 4
+"Tuesday, 19 July",20:00 (IST),Match 41 - Completed ,Telugu Titans,Dabang Delhi K.C.,36- 28,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",36,28,Season 4
+"Tuesday, 19 July",21:00 (IST),Match 42 - Completed ,Bengal Warriors,Bengaluru Bulls,25- 27,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",25,27,Season 4
+"Wednesday, 20 July",20:00 (IST),Match 43 - Completed ,U Mumba,Puneri Paltan,34- 31,"DOME@NSCI SVP Stadium, Mumbai",34,31,Season 4
+"Thursday, 21 July",20:00 (IST),Match 44 - Completed ,Jaipur Pink Panthers,Dabang Delhi K.C.,24- 22,"DOME@NSCI SVP Stadium, Mumbai",24,22,Season 4
+"Thursday, 21 July",21:00 (IST),Match 45 - Completed ,U Mumba,Telugu Titans,25- 25,"DOME@NSCI SVP Stadium, Mumbai",25,25,Season 4
+"Friday, 22 July",20:00 (IST),Match 46 - Completed ,Jaipur Pink Panthers,Patna Pirates,29- 22,"DOME@NSCI SVP Stadium, Mumbai",29,22,Season 4
+"Friday, 22 July",21:00 (IST),Match 47 - Completed ,U Mumba,Bengal Warriors,27- 31,"DOME@NSCI SVP Stadium, Mumbai",27,31,Season 4
+"Saturday, 23 July",20:00 (IST),Match 48 - Completed ,Patna Pirates,Puneri Paltan,31- 28,"DOME@NSCI SVP Stadium, Mumbai",31,28,Season 4
+"Saturday, 23 July",21:00 (IST),Match 49 - Completed ,U Mumba,Bengaluru Bulls,27- 28,"DOME@NSCI SVP Stadium, Mumbai",27,28,Season 4
+"Sunday, 24 July",20:00 (IST),Match 50 - Completed ,Dabang Delhi K.C.,Bengal Warriors,41- 20,"Thyagaraj Sports Complex, Delhi",41,20,Season 4
+"Sunday, 24 July",21:00 (IST),Match 51 - Completed ,Telugu Titans,Jaipur Pink Panthers,35- 23,"Thyagaraj Sports Complex, Delhi",35,23,Season 4
+"Monday, 25 July",20:00 (IST),Match 52 - Completed ,Dabang Delhi K.C.,Patna Pirates,31- 32,"Thyagaraj Sports Complex, Delhi",31,32,Season 4
+"Tuesday, 26 July",20:00 (IST),Match 53 - Completed ,Patna Pirates,Telugu Titans,25- 46,"Thyagaraj Sports Complex, Delhi",25,46,Season 4
+"Tuesday, 26 July",21:00 (IST),Match 54 - Completed ,Dabang Delhi K.C.,Puneri Paltan,34- 39,"Thyagaraj Sports Complex, Delhi",34,39,Season 4
+"Wednesday, 27 July",20:00 (IST),Match 55 - Completed ,Puneri Paltan,Bengaluru Bulls,36- 33,"Thyagaraj Sports Complex, Delhi",36,33,Season 4
+"Wednesday, 27 July",21:00 (IST),Match 56 - Completed ,Dabang Delhi K.C.,U Mumba,34- 38,"Thyagaraj Sports Complex, Delhi",34,38,Season 4
+"Friday, 29 July",20:00 (IST),Semi-Final 1 - Completed ,Patna Pirates,Puneri Paltan,37- 33,"Gachibowli Indoor Stadium, Hyderabad",37,33,Season 4
+"Friday, 29 July",21:00 (IST),Semi-Final 2 - Completed ,Telugu Titans,Jaipur Pink Panthers,24- 34,"Gachibowli Indoor Stadium, Hyderabad",24,34,Season 4
+"Sunday, 31 July",20:00 (IST),3/4 Place - Completed ,Telugu Titans,Puneri Paltan,35- 40,"Gachibowli Indoor Stadium, Hyderabad",35,40,Season 4
+"Sunday, 31 July",21:15 (IST),Final - Completed ,Patna Pirates,Jaipur Pink Panthers,37- 29,"Gachibowli Indoor Stadium, Hyderabad",37,29,Season 4
